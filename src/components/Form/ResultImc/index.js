@@ -28,6 +28,7 @@ export default function ResultImc(props){
                 :  
             <View/>
         }
+        <Text style={styles.direitos}>Feito por Gisele Gomes</Text>
         </View>
         </View>
     );
