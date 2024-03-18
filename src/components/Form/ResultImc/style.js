@@ -41,10 +41,6 @@ const styles = StyleSheet.create({
         paddingHorizontal:30,
     },
 
-    direitos: {
-        paddingTop:170,
-        color:"grey",
-    }
 });
 
 export default styles 
